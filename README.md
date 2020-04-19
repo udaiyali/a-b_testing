@@ -31,3 +31,13 @@ The project is divided into three parts which is given as below.
 **Finding**
 
 It is evident from the results that there is not much impact of countries and page on conversion rates.
+
+
+**update**
+
+**issues**
+
+Part III: 1(b and c);  changed the column from 'treatment' to 'ab_page'.
+Part III: 1(h): I have created two additional columns that represent the interaction between them.
+
+

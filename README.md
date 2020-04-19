@@ -38,6 +38,7 @@ It is evident from the results that there is not much impact of countries and pa
 **issues**
 
 Part III: 1(b and c);  changed the column from 'treatment' to 'ab_page'.
+
 Part III: 1(h): I have created two additional columns that represent the interaction between them.
 
 
